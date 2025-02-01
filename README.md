@@ -1,7 +1,6 @@
+# AINewsCurator
 
-# 📰 AI Newsletter Generator 🚀  
-
-Want to create a high-quality newsletter on any topic effortlessly? The **AI Newsletter Generator Agent** does it for you! This smart, multi-agent tool browses the web, gathers the latest information, summarizes key insights, and compiles a polished newsletter—so you don’t have to.  
+Want to create a high-quality newsletter on any topic effortlessly? The **AI NewsCurator Agent** does it for you! This smart, multi-agent tool browses the web, gathers the latest information, summarizes key insights, and compiles a polished newsletter—so you don't have to.  
 
 ### How It Works:  
 📰 **Newsletter Agent** – Searches the internet for the most relevant articles.  
@@ -30,8 +29,8 @@ Perfect for content creators, researchers, and businesses looking to stay inform
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-newsletter-generator.git
-cd ai-newsletter-generator
+git clone https://github.com/akhil-bot/AINewsCurator.git
+cd AINewsCurator
 ```
 
 2. Install required packages:
@@ -128,7 +127,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 
 
