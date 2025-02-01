@@ -1,0 +1,10 @@
+langchain-core
+langgraph
+langchain-community
+langchain-openai
+# windows-curses==2.3.3
+termcolor==2.4.0
+chainlit==1.1.202
+pyperclip
+streamlit
+tavily-python
